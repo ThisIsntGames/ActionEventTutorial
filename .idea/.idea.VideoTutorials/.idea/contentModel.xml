@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\loren\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\loren\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VideoTutorials.-1101228249.00" t="ExcludeRecursive" />
+    <e p="D:\ThisIsntGames\BathThief\Tutorials\VideoTutorials" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BadCode" t="Include">
+          <e p="DinnersReady.cs" t="Include" />
+          <e p="DwarfTask.cs" t="Include" />
+        </e>
+        <e p="GoodCode" t="Include">
+          <e p="GameEvents.cs" t="Include" />
+          <e p="GoodDinnersReady.cs" t="Include" />
+          <e p="GoodDwarfTask.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VideoTutorials.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
